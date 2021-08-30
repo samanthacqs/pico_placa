@@ -1,7 +1,6 @@
 # Pico & Placa predictor
-
 ## Description:
-This code was developed at python in the 3.8 version, it helps to identify if a plate in a determinate time and date can circulate or not. To aim this objetive was used 3 libraries, pandas,  datetime and argparse. The first two were used to manage the date and time, on the other hand argparse was used to manage the input variables.
+This code was developed in python in the 3.8 version. It helps to identify if a plate in a limited time and date can circulate or not. To aim, this objective was used three libraries, pandas, datetime, and argparse. The first two were used to manage the date and time. On the other hand, argparse was used to manage the input variables.
 
 ## Steps for execution:
 Predict if a plate is on pico&placa can be achieved with the following command:
